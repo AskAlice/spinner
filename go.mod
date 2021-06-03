@@ -1,4 +1,4 @@
-module github.com/briandowns/spinner
+module github.com/askalice/spinner
 
 go 1.14
 
